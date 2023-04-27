@@ -1,0 +1,21 @@
+Login ID,Full Name (First Last),Email,Location,Department,Manager ID, Height, Hire Date, Rehire Date
+anurag,Anurag Kumar,anurag@example.com,California,Sales,krishna, tall, 2022-02-22, 2022-05-21
+ashok,Ashok Kumar,ashok@example.com,California,Sales,krishna, tall, 2022-02-22, 2022-05-21
+sharmila,Sharmila Kumar,sharmila@example.com,California,Sales,krishna, tall, 2022-02-22, 2022-05-21
+krishna,Krishna Kumar,krishna@example.com,California,Sales,sumit, tall, 2022-02-22, 2022-05-21
+shruti,Shruti Kumar,shruti@example.com,California,Sales,krishna, tall, 2022-02-22, 2022-05-21
+balaji,Balaji Kumar,balaji@example.com,California,Sales,krishna, tall, 2022-02-22, 2022-05-21
+sumit,Sumit Kumar,sumit@example.com,California,Sales, ,average, 2022-02-22, 2022-05-21
+praveen,Praveen Kumar,praveen@example.com,California,Sales,sumit, average, 2022-02-22, 2022-05-21
+monu,Monu Kumar,monu@example.com,California,HR,sumit, average, 2022-02-22, 2022-05-21
+sonu,Sonu Kumar,sonu@example.com,California,HR,sumit, average, 2022-02-22, 2022-05-21
+rohan,Rohan Kumar,rohan@example.com,Bangalore,HR,sumit, average, 2022-02-22, 2022-05-21
+sohan,Sohan Kumar,sohan@example.com,Bangalore,HR,sumit, average, 2022-02-22, 2022-05-21
+amit,Amit Kumar,amit@example.com,Bangalore,HR,sumit, average, 2022-02-22, 2022-05-21
+malini,Malini Kumar,malini@example.com,Bangalore,HR,amit, short, 2022-02-22, 2022-05-21
+arpit,Arpit Kumar,arpit@example.com,Bangalore,HR,amit, short, 2022-02-22, 2022-05-21
+vinayaga,Vinayaka Kumar,vinayaga@example.com,Bangalore,Legal,amit, short, 2022-02-22, 2022-05-21
+nitin,Nitin Kumar,nitin@example.com,Bangalore,Legal,sumit, short, 2022-02-22, 2022-05-21
+mani,Mani Kumar,mani@example.com,Bangalore,Legal,nitin, short, 2022-02-22, 2022-05-21
+preeti,Preeti Kumar,preeti@example.com,Bangalore,Legal,nitin, short, 2022-02-22, 2022-05-21
+hari,Hari Kumar,Hari@example.com,Bangalore,Legal,nitin, short, 2022-02-22, 2022-05-21
