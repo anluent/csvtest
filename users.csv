@@ -1,21 +1,21 @@
-Login ID,Full Name (First Last),Email,Location,Department,Manager ID, Height
-anurag,Anurag Kumar,anurag@example.com,California,Sales,krishna, tall
-ashok,Ashok Kumar,ashok@example.com,California,Sales,krishna, tall
-sharmila,Sharmila Kumar,sharmila@example.com,California,Sales,krishna, tall
-krishna,Krishna Kumar,krishna@example.com,California,Sales,sumit, tall
-shruti,Shruti Kumar,shruti@example.com,California,Sales,krishna, tall
-balaji,Balaji Kumar,balaji@example.com,California,Sales,krishna, tall
-sumit,Sumit Kumar,sumit@example.com,California,Sales, ,average
-praveen,Praveen Kumar,praveen@example.com,California,Sales,sumit, average
-monu,Monu Kumar,monu@example.com,California,HR,sumit, average
-sonu,Sonu Kumar,sonu@example.com,California,HR,sumit, average
-rohan,Rohan Kumar,rohan@example.com,Bangalore,HR,sumit, average
-sohan,Sohan Kumar,sohan@example.com,Bangalore,HR,sumit, average
-amit,Amit Kumar,amit@example.com,Bangalore,HR,sumit, average
-malini,Malini Kumar,malini@example.com,Bangalore,HR,amit, short
-arpit,Arpit Kumar,arpit@example.com,Bangalore,HR,amit, short
-vinayaga,Vinayaka Kumar,vinayaga@example.com,Bangalore,Legal,amit, short
-nitin,Nitin Kumar,nitin@example.com,Bangalore,Legal,sumit, short
-mani,Mani Kumar,mani@example.com,Bangalore,Legal,nitin, short
-preeti,Preeti Kumar,preeti@example.com,Bangalore,Legal,nitin, short
-hari,Hari Kumar,Hari@example.com,Bangalore,Legal,nitin, short
+Login ID,Full Name (First Last),Email,Location,Department,Manager ID, Height, hire_date
+anurag,Anurag Kumar,anurag@example.com,California,Sales,krishna, tall, 2022-02-22
+ashok,Ashok Kumar,ashok@example.com,California,Sales,krishna, tall, 2022-02-22
+sharmila,Sharmila Kumar,sharmila@example.com,California,Sales,krishna, tall, 2022-02-22
+krishna,Krishna Kumar,krishna@example.com,California,Sales,sumit, tall, 2022-02-22
+shruti,Shruti Kumar,shruti@example.com,California,Sales,krishna, tall, 2022-02-22
+balaji,Balaji Kumar,balaji@example.com,California,Sales,krishna, tall, 2022-02-22
+sumit,Sumit Kumar,sumit@example.com,California,Sales, ,average, 2022-02-22
+praveen,Praveen Kumar,praveen@example.com,California,Sales,sumit, average, 2022-02-22
+monu,Monu Kumar,monu@example.com,California,HR,sumit, average, 2022-02-22
+sonu,Sonu Kumar,sonu@example.com,California,HR,sumit, average, 2022-02-22
+rohan,Rohan Kumar,rohan@example.com,Bangalore,HR,sumit, average, 2022-02-22
+sohan,Sohan Kumar,sohan@example.com,Bangalore,HR,sumit, average, 2022-02-22
+amit,Amit Kumar,amit@example.com,Bangalore,HR,sumit, average, 2022-02-22
+malini,Malini Kumar,malini@example.com,Bangalore,HR,amit, short, 2022-02-22
+arpit,Arpit Kumar,arpit@example.com,Bangalore,HR,amit, short, 2022-02-22
+vinayaga,Vinayaka Kumar,vinayaga@example.com,Bangalore,Legal,amit, short, 2022-02-22
+nitin,Nitin Kumar,nitin@example.com,Bangalore,Legal,sumit, short, 2022-02-22
+mani,Mani Kumar,mani@example.com,Bangalore,Legal,nitin, short, 2022-02-22
+preeti,Preeti Kumar,preeti@example.com,Bangalore,Legal,nitin, short, 2022-02-22
+hari,Hari Kumar,Hari@example.com,Bangalore,Legal,nitin, short, 2022-02-22
